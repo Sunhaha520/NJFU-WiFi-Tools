@@ -42,7 +42,7 @@ console.log("欢迎访问小阿宇的网站:https://www.xiaoayu.ren")
 console.log("正在进行认证绕过，你即将畅享校园网！")
 console.log("有兴趣可以看看我可爱女友的小团子的博客!")
 console.log("地址是:https://yynaixi.repl.co")
-console.log("**********************************")
+console.log("***********************************")
 console.log("************请稍等****************")
 console.log("**********************************")
 
