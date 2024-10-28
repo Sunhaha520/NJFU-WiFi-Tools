@@ -1,0 +1,7 @@
+{
+    "url": "http://10.60.100.60/a79.htm",  // 替换为实际的登录 URL
+    "credentials": {
+        "username": "your_username",  // 替换为你的用户名
+        "password": "your_password"   // 替换为你的密码
+    }
+}
