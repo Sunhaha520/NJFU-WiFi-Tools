@@ -39,11 +39,6 @@ var url = "http://10.11.2.3/a70.htm";
 
 // 提示信息
 console.log("请保证流量开关已经关闭");
-console.log("本脚本由小阿宇创建");
-console.log("欢迎访问小阿宇的网站: https://www.xiaoayu.ren");
-console.log("正在进行认证绕过，你即将畅享校园网！");
-console.log("有兴趣可以看看我可爱女友的小团子的博客!");
-console.log("地址是: https://yynaixi.repl.co");
 console.log("***********************************");
 console.log("************请稍等****************");
 console.log("**********************************");
