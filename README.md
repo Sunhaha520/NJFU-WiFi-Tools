@@ -8,8 +8,5 @@
 - iPhone可用快捷指令实现，等下步更新。
 > 启用软件或脚本前请确保设备已经连接到WiFi，否则无法绕过认证，安卓手机请关闭移动数据，否则可能失败。
 > 本程序仅供学习使用，勿滥用，绕过认证的方法很简单，可能其他校园网也通用。
-# 买杯咖啡
-如果你感觉好用，可以赞赏我。</br>
-</br>
-![赞赏码](https://cdn.staticaly.com/gh/Sunhaha520/picx-images-hosting@master/038e2afa71547ec00b34b11de832314.6dtujh0jsjo0.webp)
-
+# 更新
+目前本人已经不在南京林业大学，所以不能继续维护，可移步学弟 xuan-lab 的仓库：https://github.com/xuan-lab/NJFU-WiFi-Tools
