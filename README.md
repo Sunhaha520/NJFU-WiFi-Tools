@@ -1,3 +1,5 @@
+# 更新
+> 目前本人已经不在南京林业大学，所以不能继续维护，可移步学弟 xuan-lab 的仓库：https://github.com/xuan-lab/NJFU-WiFi-Tools
 # NJFU-WiFi-Tools
 - 这是一个快速连接南京林业大学校园网的工具🌞
 - 手机端使用Java，电脑端用Python编写。
@@ -8,5 +10,3 @@
 - iPhone可用快捷指令实现，等下步更新。
 > 启用软件或脚本前请确保设备已经连接到WiFi，否则无法绕过认证，安卓手机请关闭移动数据，否则可能失败。
 > 本程序仅供学习使用，勿滥用，绕过认证的方法很简单，可能其他校园网也通用。
-# 更新
-目前本人已经不在南京林业大学，所以不能继续维护，可移步学弟 xuan-lab 的仓库：https://github.com/xuan-lab/NJFU-WiFi-Tools
